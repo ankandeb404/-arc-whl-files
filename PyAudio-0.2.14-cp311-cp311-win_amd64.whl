@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Wheelodex &#x2014; pyaudio</title>
+<link rel="stylesheet" type="text/css" href="/static/styles.css"/>
+</head>
+<body>
+<div class="main">
+
+<div class="breadcrumbs">
+    <a href="/">Wheelodex</a>
+    &#xBB; <a href="/projects/">Projects</a>
+    
+        &#xBB; <a href="/projects/pyaudio/">pyaudio</a>
+        &#xBB; PyAudio-0.2.14-cp311-cp311-win_amd64.whl
+    
+</div>
+
+<div class="search-header">
+    <form action="/search/projects/" method="GET">
+        <input type="text" name="q" placeholder="Search Projects"/>
+    </form>
+</div>
+
+<h1>pyaudio</h1>
+
+<p style="text-align: center">
+    <a href="https://pypi.org/project/pyaudio/0.2.14/">View on PyPI</a> &#x2014;
+    <a href="/projects/pyaudio/rdepends/">Reverse Dependencies</a> (575)
+</p>
+
+<table class="versions-wheels-grid">
+    
+        <tr>
+            <td class="version">0.2.14</td>
+            
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp39-cp39-win_amd64.whl/">PyAudio-0.2.14-cp39-cp39-win_amd64.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp39-cp39-win32.whl/">PyAudio-0.2.14-cp39-cp39-win32.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp38-cp38-win_amd64.whl/">PyAudio-0.2.14-cp38-cp38-win_amd64.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp38-cp38-win32.whl/">PyAudio-0.2.14-cp38-cp38-win32.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp313-cp313-win_amd64.whl/">PyAudio-0.2.14-cp313-cp313-win_amd64.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp313-cp313-win32.whl/">PyAudio-0.2.14-cp313-cp313-win32.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp312-cp312-win_amd64.whl/">PyAudio-0.2.14-cp312-cp312-win_amd64.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp312-cp312-win32.whl/">PyAudio-0.2.14-cp312-cp312-win32.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data current-wheel">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp311-cp311-win_amd64.whl/">PyAudio-0.2.14-cp311-cp311-win_amd64.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp311-cp311-win32.whl/">PyAudio-0.2.14-cp311-cp311-win32.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp310-cp310-win_amd64.whl/">PyAudio-0.2.14-cp310-cp310-win_amd64.whl</a>
+                </td>
+            </tr>
+            
+                
+                    <tr><td></td>
+                
+                <td class="wheel-data">
+                    <a href="/projects/pyaudio/wheels/PyAudio-0.2.14-cp310-cp310-win32.whl/">PyAudio-0.2.14-cp310-cp310-win32.whl</a>
+                </td>
+            </tr>
+            
+    
+</table>
+
+<h2>Wheel Details</h2>
+
+<table>
+    <tr>
+        <td><b>Project:</b></td>
+        <td>pyaudio</td>
+    </tr>
+    <tr>
+        <td><b>Version:</b></td>
+        <td>0.2.14</td>
+    </tr>
+    <tr>
+        <td><b>Filename:</b></td>
+        <td>PyAudio-0.2.14-cp311-cp311-win_amd64.whl</td>
+    </tr>
+    <tr>
+        <td><b>Download:</b></td>
+        <td><a href="https://files.pythonhosted.org/packages/82/d8/f043c854aad450a76e476b0cf9cda1956419e1dacf1062eb9df3c0055abe/PyAudio-0.2.14-cp311-cp311-win_amd64.whl">[link]</a></td>
+    </tr>
+    <tr>
+        <td><b>Size:</b></td>
+        <td>164070</td>
+    </tr>
+    <tr>
+        <td><b>MD5:</b></td>
+        
+        <td><code>4c83ea6a05834572d4c3ebb7851f4c16</code></td>
+        
+    </tr>
+    <tr>
+        <td><b>SHA256:</b></td>
+        
+        <td><code>bbeb01d36a2f472ae5ee5e1451cacc42112986abe622f735bb870a5db77cf903</code></td>
+        
+    </tr>
+    <tr>
+        <td><b>Uploaded:</b></td>
+        <td class="timestamp">2023-11-07 07:11:38 +0000</td>
+    </tr>
+</table>
+
+
+
+
+
+
+<h2>dist-info</h2>
+
+<p class="dist_info_links">
+    
+     <a href="#metadata">METADATA</a>
+    · <a href="#wheel">WHEEL</a>
+    · <a href="#record">RECORD</a>
+    · <a href="#top_level">top_level.txt</a>
+    
+    
+    
+    
+</p>
+
+
+    <h3 class="dist_info_filename" id="metadata">METADATA</h3>
+    
+    
+        <div class="dist_info_file metadata">
+            <table class="keyvalues">
+                
+                    <tr>
+                        <td class="key">Metadata-Version:</td>
+                        <td class="value">2.1</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Name:</td>
+                        <td class="value">PyAudio</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Version:</td>
+                        <td class="value">0.2.14</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Summary:</td>
+                        <td class="value">Cross-platform audio I/O with PortAudio</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Author:</td>
+                        <td class="value">Hubert Pham</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Home-Page:</td>
+                        <td class="value"><a href="https://people.csail.mit.edu/hubert/pyaudio/" rel="nofollow">https://people.csail.mit.edu/hubert/pyaudio/</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">License:</td>
+                        <td class="value">MIT</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Classifier:</td>
+                        <td class="value">Development Status :: 4 - Beta</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Classifier:</td>
+                        <td class="value">License :: OSI Approved :: MIT License</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Classifier:</td>
+                        <td class="value">Programming Language :: Python :: 3</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Classifier:</td>
+                        <td class="value">Topic :: Multimedia :: Sound/Audio</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Requires-Dist:</td>
+                        <td class="value"><a href="/projects/numpy/">numpy</a>; extra == &#34;test&#34;</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Provides-Extra:</td>
+                        <td class="value">test</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Description-Content-Type:</td>
+                        <td class="value">text/markdown</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">License-File:</td>
+                        <td class="value">LICENSE.txt</td>
+                    </tr>
+                
+            </table>
+            
+                <div class="body">[Description omitted; length: 2105 characters]</div>
+            
+        </div>
+    
+
+
+
+    <h3 class="dist_info_filename" id="wheel">WHEEL</h3>
+    
+    
+        <div class="dist_info_file">
+            <table class="keyvalues">
+                
+                    <tr>
+                        <td class="key">Wheel-Version:</td>
+                        <td class="value">1.0</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Generator:</td>
+                        <td class="value">bdist_wheel (0.41.3)</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Root-Is-Purelib:</td>
+                        <td class="value">false</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="key">Tag:</td>
+                        <td class="value">cp311-cp311-win_amd64</td>
+                    </tr>
+                
+            </table>
+            
+        </div>
+    
+
+
+
+    <h3 class="dist_info_filename" id="record">RECORD</h3>
+    
+        <table class="record">
+            <tr>
+                <th>Path</th>
+                <th>Digest</th>
+                <th>Size</th>
+            </tr>
+            
+                <tr>
+                    <td class="path">pyaudio/__init__.py</td>
+                    
+                        <td class="digests">
+                            
+                            
+                                sha256=7V6ZjNJra5wjKcIoklmSU84UmFMrFm23DT1dtWtxXGU
+                            
+                        </td>
+                    
+                    
+                        <td class="size">36914</td>
+                    
+                </tr>
+            
+                <tr>
+                    <td class="path">pyaudio/_portaudio.cp311-win_amd64.pyd</td>
+                    
+                        <td class="digests">
+                            
+                            
+                                sha256=HvNT72p0UaQsOjaSFxtlO_1T4Srt56U0GRmj3CSmUEY
+                            
+                        </td>
+                    
+                    
+                        <td class="size">301568</td>
+                    
+                </tr>
+            
+                <tr>
+                    <td class="path">PyAudio-0.2.14.dist-info/LICENSE.txt</td>
+                    
+                        <td class="digests">
+                            
+                            
+                                sha256=fntVlrMb-hzPD2Nug0TmemhiZeCRwN02DxG2bcgqvFQ
+                            
+                        </td>
+                    
+                    
+                        <td class="size">1055</td>
+                    
+                </tr>
+            
+                <tr>
+                    <td class="path">PyAudio-0.2.14.dist-info/METADATA</td>
+                    
+                        <td class="digests">
+                            
+                            
+                                sha256=qNNR9Cphk7asLfQ1hbLo3VibawpPaCR2HyufgWYdrwI
+                            
+                        </td>
+                    
+                    
+                        <td class="size">2683</td>
+                    
+                </tr>
+            
+                <tr>
+                    <td class="path">PyAudio-0.2.14.dist-info/WHEEL</td>
+                    
+                        <td class="digests">
+                            
+                            
+                                sha256=82gZYSdmJ63dmEqVXfVfYjP-6F3ar13SybIjiy8AOec
+                            
+                        </td>
+                    
+                    
+                        <td class="size">102</td>
+                    
+                </tr>
+            
+                <tr>
+                    <td class="path">PyAudio-0.2.14.dist-info/top_level.txt</td>
+                    
+                        <td class="digests">
+                            
+                            
+                                sha256=jp8bgmWZh435lFm-DsWc00D0k4xj4iAEmWd1L_TpKk8
+                            
+                        </td>
+                    
+                    
+                        <td class="size">8</td>
+                    
+                </tr>
+            
+                <tr>
+                    <td class="path">PyAudio-0.2.14.dist-info/RECORD</td>
+                    
+                        <td class="nil">&#x2014;</td>
+                    
+                    
+                        <td class="nil">&#x2014;</td>
+                    
+                </tr>
+            
+        </table>
+    
+
+
+
+    <h3 class="dist_info_filename" id="top_level">top_level.txt</h3>
+    
+        <div class="dist_info_file">
+            
+                <div>pyaudio</div>
+            
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>
